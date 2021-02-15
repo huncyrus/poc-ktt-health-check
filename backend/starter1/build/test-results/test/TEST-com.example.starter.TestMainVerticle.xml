@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.starter.TestMainVerticle" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-14T18:22:08" hostname="cyrus-VirtualBox" time="0.606">
+  <properties/>
+  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="com.example.starter.TestMainVerticle" time="0.606"/>
+  <system-out><![CDATA[[SM][_] Simple model started here!
+[SM][_] db info: null, host: null
+[ServiceHandler] running.
+[SH][run] prepare for run, please stand by...
+HTTP server started on port 8088
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

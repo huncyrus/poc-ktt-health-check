@@ -1,0 +1,22 @@
+KTT Healt check project
+
+(Proof-of-concept)
+
+Requirements:
+ - Java
+   - Vert.x
+   - Gradle
+ - React
+ - MySQL
+
+
+Features:
+ - Service health check
+   - HTTP availability check through HTTP client
+ - Store data in database
+   - Prepared statements to avoid conflicts
+ - Update response time
+ - Minimalistic frontend (Via React)
+ - Service shall refresh saved services info (availability, response time)
+ - Frontend should get fresh information time-to-time.
+
